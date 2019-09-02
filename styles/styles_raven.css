@@ -127,7 +127,7 @@ h2{
 .service_rv_01{
   display: grid;
   grid-template-columns: auto auto auto auto;
-  grid-gap: 20px;
+  grid-gap: 40px;
   /* align-content: center; */
 }
 .servicesq_rv_01{
@@ -145,4 +145,8 @@ h2{
 }
 .service_rv_01 h2,.service_rv_01 figure{
   text-align: center;
+}
+.project_rv_01{
+  margin: 0px;
+  margin-top: 176px;
 }
