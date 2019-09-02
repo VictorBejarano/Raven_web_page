@@ -1,10 +1,11 @@
 *{
-  border: 1px solid red;
+  /* border:  1px solid red; */
 }
 body{
   margin: 0px;
   display: grid;
   justify-content: center;
+  font-family: font92701;
 
 }
 
@@ -29,15 +30,24 @@ body{
   grid-template-columns: auto auto;
 }
 .menu_rv_03{
-  margin: 0px;
+  margin: 0px 32px;
   display: grid;
   padding: 0px;
   grid-template-columns: auto auto auto auto;
+  grid-gap: 49px;
   align-items: center;
   text-decoration: none;
   list-style-type: none;
 }
 .menu_rv_03 a{
   text-decoration: none;
-
+  /* color: white; */
+  font-size: 16px;
+}
+.select_lg_01{
+  display: grid;
+  grid-template-columns: auto auto;
+  align-items: center;
+  grid-gap: 7px;
+  margin: 0px 153px 0 32px;
 }
