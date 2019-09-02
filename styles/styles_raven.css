@@ -1,5 +1,5 @@
 *{
-  /* border: 1px solid red; */
+  border: 1px solid red;
 }
 body{
   margin: 0px;
@@ -54,27 +54,34 @@ body{
   right: 0px;
   z-index: -1;
 }
-.image_bg_01 figure{
+figure{
   margin: 0px;
 }
-.content_rv_01{
+h1{
+  color: #8747AB;
+  font-size: 50px;
   font-family: font92690;
+}
+h2{
+  color: #3F546C;
+  font-size: 20px;
+  font-family: font92700;
+  line-height: 27px;
+  letter-spacing: -0.05866668px;
+}
+.content_rv_01{
+
   margin: 0px 0px 0px 120px;
   width: 544px;
 }
 .WelInit_rv_01 h1{
-  color: #8747AB;
-  font-size: 50px;
   margin: 245px 0px 0px 0px;
 }
+
 .WelInit_rv_01 h2{
-  color: #3F546C;
-  font-size: 20px;
   margin: 31px 0px 36px 0px;
-  font-family: font92700;
 }
 .callus_button_rv_01{
-
   padding: 13px 45px;
   color: #ffffff;
   font-size: 20px;
@@ -84,4 +91,25 @@ body{
   border-radius: 7px;
   border: solid 1px #3f546c;
   background: linear-gradient(117deg, #D8D8D8, #4A51E2);
+}
+.image_bg_02{
+  position: absolute;
+  /* top: 900px; */
+  /* left: 0px; */
+  z-index: -1;
+}
+.aboutus_rv_01{
+  display: grid;
+  height: 732px;
+  margin: 329px 102px 0px 0px;
+  justify-content:flex-end;
+  align-items: center;
+}
+.aboutus_rv_01 h2,h1{
+  width: 486px;
+  text-align:left;
+  margin: 0px;
+}
+.aboutus_rv_01 p{
+  margin: 24px 0px;
 }
