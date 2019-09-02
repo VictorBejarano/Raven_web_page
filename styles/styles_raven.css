@@ -1,5 +1,5 @@
 *{
-  border: 1px solid red;
+  /* border: 1px solid red; */
 }
 body{
   margin: 0px;
@@ -70,6 +70,18 @@ body{
 .WelInit_rv_01 h2{
   color: #3F546C;
   font-size: 20px;
-  margin: 0px;
+  margin: 31px 0px 36px 0px;
   font-family: font92700;
+}
+.callus_button_rv_01{
+
+  padding: 13px 45px;
+  color: #ffffff;
+  font-size: 20px;
+  line-height: 27px;
+  text-align: right;
+  letter-spacing: 0.7142859px;
+  border-radius: 7px;
+  border: solid 1px #3f546c;
+  background: linear-gradient(117deg, #D8D8D8, #4A51E2);
 }
