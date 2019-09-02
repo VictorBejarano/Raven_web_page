@@ -1,5 +1,5 @@
 *{
-  border: 1px solid red;
+  /* border: 1px solid red; */
 }
 body{
   margin: 0px;
@@ -105,11 +105,44 @@ h2{
   justify-content:flex-end;
   align-items: center;
 }
-.aboutus_rv_01 h2,h1{
+.aboutus_rv_01 h2,.aboutus_rv_01 h1{
   width: 486px;
   text-align:left;
   margin: 0px;
 }
 .aboutus_rv_01 p{
   margin: 24px 0px;
+}
+.range_rv_01{
+  display: grid;
+  justify-content: center;
+  /* align-items: center; */
+  align-content: center;
+  /* height: 1000px; */
+  /* background-color: blue */
+}
+.range_rv_01 h1{
+  text-align: center;
+}
+.service_rv_01{
+  display: grid;
+  grid-template-columns: auto auto auto auto;
+  grid-gap: 20px;
+  /* align-content: center; */
+}
+.servicesq_rv_01{
+  display: grid;
+  grid-template-rows: auto auto auto;
+  align-content:flex-end;
+  white-space: nowrap;
+}
+.service_rv_01 p{
+  margin: 0px;
+  font-family: font92716;
+  font-size: 16px;
+  color: #506883;
+  text-align: center;
+}
+.service_rv_01 h2,.service_rv_01 figure{
+  text-align: center;
 }
