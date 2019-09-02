@@ -1,5 +1,5 @@
 *{
-  border: 1px solid red;
+  /* border: 1px solid red; */
 }
 body{
   margin: 0px;
@@ -167,4 +167,9 @@ h2{
   position: absolute;
   left: 8px;
   top: 13px;
+}
+.oval_rv_13{
+  position: absolute;
+  left: 18px;
+  top: 24px;
 }
