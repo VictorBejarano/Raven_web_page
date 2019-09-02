@@ -1,5 +1,5 @@
 *{
-  /* border:  1px solid red; */
+  border: 1px solid red;
 }
 body{
   margin: 0px;
@@ -15,8 +15,6 @@ body{
   justify-content: space-between;
   margin-top: 16px;
   width: 1440px;
-
-
 }
 .logo_rv_01{
   margin: 0px 0px 0px 120px;
@@ -58,4 +56,20 @@ body{
 }
 .image_bg_01 figure{
   margin: 0px;
+}
+.content_rv_01{
+  font-family: font92690;
+  margin: 0px 0px 0px 120px;
+  width: 544px;
+}
+.WelInit_rv_01 h1{
+  color: #8747AB;
+  font-size: 50px;
+  margin: 245px 0px 0px 0px;
+}
+.WelInit_rv_01 h2{
+  color: #3F546C;
+  font-size: 20px;
+  margin: 0px;
+  font-family: font92700;
 }
