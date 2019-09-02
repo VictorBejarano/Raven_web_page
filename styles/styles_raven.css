@@ -41,7 +41,7 @@ body{
 }
 .menu_rv_03 a{
   text-decoration: none;
-  /* color: white; */
+  color: white;
   font-size: 16px;
 }
 .select_lg_01{
@@ -50,4 +50,12 @@ body{
   align-items: center;
   grid-gap: 7px;
   margin: 0px 153px 0 32px;
+}
+.image_bg_01{
+  position: absolute;
+  right: 0px;
+  z-index: -1;
+}
+.image_bg_01 figure{
+  margin: 0px;
 }
