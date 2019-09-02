@@ -1,5 +1,5 @@
 *{
-  /* border: 1px solid red; */
+  border: 1px solid red;
 }
 body{
   margin: 0px;
@@ -149,4 +149,22 @@ h2{
 .project_rv_01{
   margin: 0px;
   margin-top: 176px;
+  text-align: center;
+}
+.project_rv_01 h1{
+  margin: 0px;
+}
+.group_pj_rv_01{
+  display: grid;
+  grid-template-columns: auto auto auto;
+  justify-content: center;
+  grid-gap: 20px;
+}
+.group_pj_rv_01 figure{
+  position: relative;
+}
+.oval_rv_12{
+  position: absolute;
+  left: 8px;
+  top: 13px;
 }
