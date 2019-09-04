@@ -31,7 +31,7 @@ body{
   margin: 0px 32px;
   display: grid;
   padding: 0px;
-  grid-template-columns: auto auto auto auto;
+  grid-template-columns: auto auto auto auto auto;
   grid-gap: 49px;
   align-items: center;
   text-decoration: none;
