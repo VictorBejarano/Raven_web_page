@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="1440px" height="578px" viewBox="0 0 1440 578" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <desc>Created with Lunacy</desc>
+  <defs>
+    <linearGradient x1="0.0281285457" y1="-0.184713468" x2="1.09245348" y2="1.05571723" id="gradient_1">
+      <stop offset="0" stop-color="#EA4972" />
+      <stop offset="1" stop-color="#8747AB" />
+    </linearGradient>
+  </defs>
+  <path d="M79 0C167 -8.50543 218.5 14.5093 366 58.0371C513.5 101.565 594 104.567 817 66.0422C1040 27.5176 1133.5 0 1312 13.0083C1482 20.5131 1540.5 81.0518 1600 129.583C1659.5 178.114 548 130.364 548 130.364C548 130.364 0 104.066 0 104.066C0 104.066 -9 8.50543 79 0Z" transform="translate(-40 0.5)" id="Path-10" fill="url(#gradient_1)" stroke="none" />
+  <path d="M152.055 0.800293C-20.4784 -0.201796 0.83667 77.4986 0.83667 77.4986L12.8346 101.296L12.8346 539.144L1563.57 539.144L1563.57 126.305L1634.56 61.9662C1634.56 61.9662 1352.26 -8.2185 1151.56 0.800293C1064.8 4.69895 984.969 18.4121 906.122 31.957C802.572 49.7456 700.712 67.2438 587.055 61.8392C386.856 52.3194 324.589 1.80238 152.055 0.800293Z" transform="translate(-40.55518 38.22437)" id="Combined-Shape" fill="#8747AB" fill-rule="evenodd" stroke="none" />
+</svg>
