@@ -329,7 +329,7 @@ h2{
 }
 
 #map {
-        height: 866px;  /* The height is 400 pixels */
+        height: 700px;  /* The height is 400 pixels */
         width: 100vw;  /* The width is the width of the web page */
         margin-top: 100px;
         z-index: -1;
@@ -338,6 +338,6 @@ footer{
   position: relative;
 }
 footer figure{
-  top: -250px;
+  top: -200px;
   position: absolute;
 }
