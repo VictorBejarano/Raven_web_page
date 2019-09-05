@@ -218,7 +218,7 @@
       <ul>
         <li class="address_rv">
           <h4>Address:</h4>
-          <a href="https://goo.gl/maps/xJNa7c9vdRbRinXXA">750 N. SAN VICENTE BLVD. STE 800W "WEST HOLLYWOOD, CA</a>
+          <a href="https://goo.gl/maps/xJNa7c9vdRbRinXXA">750 N. SAN VICENTE BLVD.<br> STE 800W <br>"WEST HOLLYWOOD, CA</a>
         </li>
         <li>
           <h4 class="phone_rv">Phone:</h4>
@@ -230,8 +230,42 @@
         </li>
 
       </ul>
+      <div id="map">hola</div>
+      <footer>
+        <figure>
+          <img src="images/footer_white.svg" alt="">
+        </figure>
+      </footer>
 
 
     </div>
+
+
+
+
+
+
+
+
+    <script>
+// Initialize and add the map
+function initMap() {
+ // The location of Uluru
+ var bogota = {lat: 4.6134665, lng: -74.0934755};
+ // The map, centered at Uluru
+ var map = new google.maps.Map(
+     document.getElementById('map'), {zoom: 11, center: bogota});
+ // The marker, positioned at Uluru
+ var marker = new google.maps.Marker({position: bogota, map: map});
+}
+   </script>
+   <!--Load the API from the specified URL
+   * The async attribute allows the browser to render the page while the API loads
+   * The key parameter will contain your own API key (which is not needed for this tutorial)
+   * The callback parameter executes the initMap() function
+   -->
+   <script async defer
+   src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDZpKm8REytw-4cNucv-Go0ICdEX58hyf4&callback=initMap">
+   </script>
   </body>
 </html>

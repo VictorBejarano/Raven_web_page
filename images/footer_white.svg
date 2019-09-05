@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="1440px" height="448px" viewBox="0 0 1440 448" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <desc>Created with Lunacy</desc>
+  <defs>
+    <linearGradient x1="-0.211643338" y1="-0.873172939" x2="1.09245348" y2="1.05571723" id="gradient_1">
+      <stop offset="0" stop-color="#EA4972" />
+      <stop offset="1" stop-color="#4A51E2" />
+    </linearGradient>
+    <linearGradient x1="1.26125419" y1="-0.1946877" x2="0" y2="0.903386354" id="gradient_2">
+      <stop offset="0" stop-color="#F093FB" />
+      <stop offset="1" stop-color="#F5576C" />
+    </linearGradient>
+  </defs>
+  <g id="footer_white" transform="translate(-92 0.5)">
+    <path d="M13.3562 57.8253C78.3209 52.7214 186.856 -15.6747 310.356 3.32529C407.356 15.8253 604.056 120.518 839.356 120.325C1074.66 120.133 1387.36 -89.6747 1558.36 67.3253C1550.53 80.5544 995.059 155.342 995.059 155.342L250.417 102.041L199.417 102.041C199.417 102.041 -51.6086 62.9291 13.3562 57.8253Z" transform="translate(30.14384 0.6747131)" id="Path-9" fill="url(#gradient_1)" stroke="none" />
+    <path d="M18.8734 45.5082C83.8382 40.4043 192.373 -7.49183 308.873 1.00817C430.373 13.5082 634.073 102.201 869.373 102.008C1104.67 101.816 1360.04 -82.7627 1545.87 64.5082C1538.04 77.7373 1534.87 116.508 1534.87 116.508L908.202 159.279L163.561 105.978L112.561 105.978C112.561 105.978 -46.0913 50.612 18.8734 45.5082Z" transform="translate(0.1265737 18.99183)" id="Path-9" fill="url(#gradient_2)" stroke="none" />
+    <path d="M21.6334 39.7495C86.5981 34.6457 159.633 -7.75049 289.633 1.24951C474.633 15.7495 606.633 85.7495 855.633 85.7495C1096.13 89.7495 1352.63 -57.7505 1541.63 67.7495C1730.63 193.25 1527.43 110.557 1527.43 110.557L882.434 153.057L137.792 99.7564L86.7923 99.7564C86.7923 99.7564 -43.3314 44.8534 21.6334 39.7495Z" transform="translate(3.866638 39.25049)" id="Path-9" fill="#FFFFFF" stroke="none" />
+    <path d="M0 5.5L1440 1.31145e-15L1440 378L0 378L0 5.5Z" transform="translate(91 121)" id="Rectangle" fill="#FFFFFF" stroke="none" />
+  </g>
+</svg>
